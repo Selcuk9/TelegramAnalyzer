@@ -5,6 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Area\" />
+    <Folder Include="DataBase\Context\" />
     <Folder Include="Models\ModelViews\" />
     <Folder Include="Views\" />
   </ItemGroup>

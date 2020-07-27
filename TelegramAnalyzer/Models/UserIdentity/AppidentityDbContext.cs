@@ -13,6 +13,7 @@ namespace TelegramAnalyzer.Models.UserIdentity
         public AppidentityDbContext(DbContextOptions<AppidentityDbContext> options) 
             : base(options)
         {
+
         }
     }
 }
